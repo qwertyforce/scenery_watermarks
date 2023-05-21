@@ -4,8 +4,8 @@ https://huggingface.co/datasets/qwertyforce/scenery_watermarks
 https://www.kaggle.com/datasets/qwertyforce/scenery-watermarks  
   
 ~22k images, 512x512, manually annotated from /r/EarthPorn/  
-for hi-res images, send me an email (see github profile)
-
+for hi-res images, send me an email (see github profile)  
+trained model: https://huggingface.co/qwertyforce/watermark_detection  
 ## Citation
 ```
 @misc {vesnin_dmitry_2023,
